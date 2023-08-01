@@ -12,5 +12,6 @@
 
 - @k.rafael
 
-- https://media.tenor.com/yLA8Ck0789AAAAAC/golf5-golf5gti.gif
+- ![image](https://github.com/rafaelpauzudo/rafael/assets/141189128/b64796b3-7d06-4514-9fe9-e9255e50becd)
+
 -
